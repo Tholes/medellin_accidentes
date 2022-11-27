@@ -1,0 +1,10 @@
+**Integrantes:**
+- Jakelin Daiana Correa Palacio
+- Daniela Guardia Cuervo
+- Dayra Gabriela Chamorro Revelo
+- Fredy Alberto Orozco Loaiza
+- Cristian Camilo Henao Rojas
+
+En la última década, los accidentes viales en la ciudad de Medellín se han convertido en una dificultad que incide en los problemas de cultura ciudadana, salud pública y contaminación ambiental generada por las congestiones vehiculares. Además, Según la información de la Secretaría de Movilidad de Medellín del 2018*, el parque automotor que circula en el Valle de Aburrá, sumando carros y motos, es de 1’464.328, cuyo valor se desagrega en 589.463 carros y 875.043 motos, representando 40% y 60%, respectivamente, este indicador ha tenido una tendencia creciente, es decir que el parque automotor esta en constante crecimiento y por lo tanto los problemas vehiculares también.  En este trabajo se pretende predecir la accidentalidad en la ciudad de Medellín para los años de 2021 y 2022 a partir de la historia reciente de los accidentes reportados desde el 2014 al 2018 y así ser una guía frente a la toma de medidas concretas y planes de acción respecto a esta problemática.
+
+El análisis derivado de la predicción (es dirigido hacia el usuario y) esta presentado de forma interactiva e intuitiva.
