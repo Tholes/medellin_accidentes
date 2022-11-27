@@ -111,6 +111,12 @@ def load_map():
 def main():
     st.title('Mapa interactivo de la accidentalidad en la ciudad de Medellín')
     st.write('Dividido por las comunas de Medellín')
+    home = open('markdown/descrip_mapa.md', 'r')
+    for line in home.readlines():
+        st.write(line)
     load_map()
+    home = open('markdown/pie_mapa.md', 'r')
+    for line in home.readlines():
+        st.write(line)
 if __name__ == '__main__':
     main()
